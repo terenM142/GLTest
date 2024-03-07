@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1709832925 source:c:\users\ostap\onedrive\Рабочий стол\tt\gltechtest\main.cpp
+	"file_find.h"
+
+1709832925 c:\users\ostap\onedrive\Рабочий стол\tt\gltechtest\file_find.h
+	<string>
+
